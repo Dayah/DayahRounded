@@ -1,0 +1,25 @@
+.Pages	{ background-color: #4A4A4A; }
+.Home	{ background-color: #A6463C; }
+.E-mail	{ background-color: #30476D; }
+.Sites	{ background-color: #534E33; }
+.Computer	{ background-color: #6C5D3D; }
+.School	{ background-color: #2B5355; }
+TD	{ vertical-align: top; font-family: sans-serif; }
+.PagesTable TR	{ background-color: #AAAAAA; }
+.SitesTable TR	{ background-color: #7C9563; }
+body	{ font-family: sans-serif; }
+a	{ color: #FFFFFF; }
+a:visited	{ color: #CCCCCC; }
+a:active	{ color: #000000; }
+A { text-decoration: none }
+
+A:hover { color: white }
+
+    TD TD { text-align: justify }
+
+    TD TD A { color: #555555; text-decoration: underline }
+
+    TD TD A:hover { color: black }
+
+blockquote	{ font-family: Georgia Italic, Georgia, Script, Verdana, Times New Roman; color: white; font-size: medium; }
+em		{ color: #D79884; }
